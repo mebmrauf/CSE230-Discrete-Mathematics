@@ -1,6 +1,19 @@
 # CSE230: Discrete Mathematics
 <p>Set theory, Elementary number theory, Graph theory, Paths and trees, Boolean Algebra, Binary Relations, Functions, Algebraic system, Generating functions, Induction, Reduction, Semigroup, Permutation groups, Discrete Probability, Mathematical logic, Prepositional calculus and Predicate calculus.</p>
 
+# Course Objectives
+
+a. To develop students’ mathematical maturity, the ability to understand and create mathematical arguments.
+
+b. To develop students’ understanding of fundamental concepts and techniques of discrete mathematics, including proposition logic, set theory, and graph theory.
+
+c. To enable them to apply their knowledge of discrete mathematics to solve problems in computer science, such as analyzing algorithms and designing efficient data structures.
+
+d. To teach them to use discrete mathematics concepts and techniques to model and solve real-world problems in diverse fields, such as economics, cryptography, and network theory.
+
+e. To prepare them for many foundational courses of CS like Data Structures, Algorithms, Automata Theory, Formal Languages, Compiler Theory etc.
+
+
 <h1>Playlist</h1>
 
 <h3>Number Theory</h3>
